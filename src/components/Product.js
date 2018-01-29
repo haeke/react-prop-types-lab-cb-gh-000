@@ -1,3 +1,3 @@
 // Code Product Component Here
 import React, {Component} from 'react';
-import 
+import PropTypes from 'prop-types';
