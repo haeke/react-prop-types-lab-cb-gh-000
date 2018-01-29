@@ -8,11 +8,12 @@ class Product extends Component {
   }
 }
 
-export default Product;
-
 Product.propTypes = {
   name: PropTypes.string.isRequired,
   producer: PropTypes.string,
   color: PropTypes.string.isRequired,
   wieght: PropTypes.number.isRequired,
 }
+
+
+export default Product;
