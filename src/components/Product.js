@@ -10,7 +10,7 @@ class Product extends Component {
 
 export default Product;
 
-Product.PropTypes = {
+Product.propTypes = {
   name: PropTypes.string.isRequired,
   producer: 
 }
