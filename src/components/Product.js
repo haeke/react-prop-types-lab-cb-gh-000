@@ -8,4 +8,5 @@ class Product extends Component {
   }
 }
 
-export deafult Product;
+export default Product;
+
