@@ -12,5 +12,6 @@ export default Product;
 
 Product.propTypes = {
   name: PropTypes.string.isRequired,
-  producer: 
+  producer: PropTypes.string,
+  color: PropTypes.string.isRequired,
 }
