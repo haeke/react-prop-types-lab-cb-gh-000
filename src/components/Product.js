@@ -14,4 +14,5 @@ Product.propTypes = {
   name: PropTypes.string.isRequired,
   producer: PropTypes.string,
   color: PropTypes.string.isRequired,
+  wieght: PropTypes.number.isRequired,
 }
